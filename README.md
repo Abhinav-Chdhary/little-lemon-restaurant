@@ -1,3 +1,7 @@
 ## Capstone project for Meta frontend developer course
 
-I will soon put a screenshot of the certificate below.
+Looks like:
+![](https://raw.githubusercontent.com/Abhinav-Chdhary/little-lemon-restaurant/main/public/LittleLemon.png "How it looks")
+
+And the certificate:
+![](https://raw.githubusercontent.com/Abhinav-Chdhary/little-lemon-restaurant/main/public/Certificate.png "Certificate")
